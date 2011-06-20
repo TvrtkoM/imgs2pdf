@@ -1,0 +1,7 @@
+Python/Tkinter app to convert list of images to pdf
+
+Environment:
+- python-2.6
+- reportlab-2.5 toolkit - http://www.reportlab.com/software/opensource/rl-toolkit/download/
+- PIL-1.0
+- pyttk-0.3.2
